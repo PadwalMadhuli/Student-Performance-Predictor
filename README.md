@@ -1,4 +1,5 @@
 # Student-Performance-Predictor
 
 This project is done as a part of YBI foundationdation's 15 weeks internship program in Machine Learning domain.
-Here, linear regression is used to predict the student performance.
+
+Description: EduQuest Coaching aims to empower its students with personalized learning strategies by implementing a "Student Performance Predictor." This project focuses on developing a machine learning model that predicts student academic performance based on various factors, including past academic records, attendance, engagement in coursework, and demographic information. The system will enable EduQuest Coaching to identify students who may require additional support, tailor educational interventions, and ultimately improve student success rates and retention.
