@@ -1,5 +1,17 @@
-# Student-Performance-Predictor
+🎓 Student Performance Predictor
+Project Context:
+Completed as part of a 15-week Machine Learning internship program by YBI Foundation.
 
-This project is done as a part of YBI foundationdation's 15 weeks internship program in Machine Learning domain.
+📝 Project Description:
+EduQuest Coaching seeks to enhance student outcomes through data-driven insights. The Student Performance Predictor project focuses on building a machine learning model that forecasts a student's academic performance using multiple indicators, such as:
 
-Description: EduQuest Coaching aims to empower its students with personalized learning strategies by implementing a "Student Performance Predictor." This project focuses on developing a machine learning model that predicts student academic performance based on various factors, including past academic records, attendance, engagement in coursework, and demographic information. The system will enable EduQuest Coaching to identify students who may require additional support, tailor educational interventions, and ultimately improve student success rates and retention.
+1.Previous academic records
+2.Attendance data
+3.Engagement in coursework
+4.Demographic details
+
+By leveraging these data points, the model identifies students who may be at risk of underperforming. This enables EduQuest to:
+
+1.Provide targeted academic support
+2.Design personalized learning strategies
+3.Increase student retention and success rates
