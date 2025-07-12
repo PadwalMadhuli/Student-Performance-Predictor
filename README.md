@@ -1,4 +1,4 @@
-🎓 Student Performance Predictor
+#🎓 Student Performance Predictor
 Project Context:
 
 Completed as part of a 15-week Machine Learning internship program by YBI Foundation.
