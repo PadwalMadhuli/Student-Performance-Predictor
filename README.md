@@ -20,3 +20,6 @@ By leveraging these data points, the model identifies students who may be at ris
 * Design personalized learning strategies
 
 * Increase student retention and success rates
+
+### To run the code:
+Open the ipynb file on Google Colab. Load the dataset and then click on run all cells.
