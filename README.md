@@ -1,25 +1,34 @@
 # 🎓 Student Performance Predictor
-Project Context:
-Completed as part of a 15-week Machine Learning internship program by YBI Foundation.
 
-### 📝 Project Description:
-EduQuest Coaching seeks to enhance student outcomes through data-driven insights. The Student Performance Predictor project focuses on building a machine learning model that forecasts a student's academic performance using multiple indicators, such as:
+## 📌 Project Context
 
-* Previous academic records
+This project was developed during a **15-week Machine Learning internship** with **YBI Foundation**, focusing on the application of predictive analytics in the education sector.
 
-* Attendance data
+## 🧠 Project Overview
 
-* Engagement in coursework
+**EduQuest Coaching** aims to improve student outcomes by utilizing data-driven strategies. The **Student Performance Predictor** leverages machine learning to forecast a student's academic performance based on a variety of indicators, including:
 
-* Demographic details
+- 📚 **Previous academic records**  
+- 🕒 **Attendance data**  
+- 📝 **Engagement in coursework**  
+- 👥 **Demographic details**
 
-By leveraging these data points, the model identifies students who may be at risk of underperforming. This enables EduQuest to:
+## 🎯 Key Objectives
 
-* Provide targeted academic support
+The model enables EduQuest to:
 
-* Design personalized learning strategies
+- 🔍 Identify students at risk of underperforming  
+- 🎯 Deliver targeted academic support  
+- 📈 Enhance student retention and success  
+- 🧩 Create personalized learning pathways  
 
-* Increase student retention and success rates
+## ▶️ How to Run the Project
 
-### To run the code:
-Open the ipynb file on Google Colab. Load the dataset and then click on run all cells.
+1. Open the `.ipynb` notebook in **Google Colab**
+2. Upload the dataset when prompted  
+3. Click **Runtime > Run all** to execute all cells  
+
+> 🔧 **Note:** Make sure all required libraries are installed in the Colab environment.
+
+---
+
