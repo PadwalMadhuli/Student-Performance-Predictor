@@ -29,6 +29,7 @@ The model enables EduQuest to:
 3. Click **Runtime > Run all** to execute all cells  
 
 > 🔧 **Note:** Make sure all required libraries are installed in the Colab environment.
-
+ 
+ ## Happy Coding!!
 ---
 
